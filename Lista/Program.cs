@@ -45,6 +45,8 @@ namespace Lista
                 
                 Console.WriteLine(obj.Id +","+ obj.Nome +","+ obj.Salario);
             }
+
+            Console.WriteLine("teste");
         }
     }
 }
